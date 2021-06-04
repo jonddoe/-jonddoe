@@ -1,5 +1,9 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Janis Dzierkals!
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am Janis Dzierkals!
 
+---
+I'm a .NET/C# software engineer. Constantly looking for new ways to expand my knowledge about programming and problem solving. 
+
+My contacts: dzierkalsj@gmail.com | https://www.linkedin.com/in/janis-dzierkals/
 ---
 🧰 Toolbox
 
