@@ -2,7 +2,7 @@
 
 ---
 I'm a .NET/C# software engineer. Constantly looking for new ways to expand my knowledge about programming and problem solving. 
-
+---
 My contacts: dzierkalsj@gmail.com | https://www.linkedin.com/in/janis-dzierkals/
 ---
 🧰 Toolbox
